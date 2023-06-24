@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Documents\\Projetos\\nutrition\\Nutrition\\Nutrition.csproj": {}
+    "C:\\Users\\USER\\Documents\\Projetos\\Nutrition\\Nutrition\\Nutrition.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Documents\\Projetos\\nutrition\\Nutrition\\Nutrition.csproj": {
+    "C:\\Users\\USER\\Documents\\Projetos\\Nutrition\\Nutrition\\Nutrition.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Documents\\Projetos\\nutrition\\Nutrition\\Nutrition.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\Projetos\\Nutrition\\Nutrition\\Nutrition.csproj",
         "projectName": "Nutrition",
-        "projectPath": "C:\\Users\\USER\\Documents\\Projetos\\nutrition\\Nutrition\\Nutrition.csproj",
+        "projectPath": "C:\\Users\\USER\\Documents\\Projetos\\Nutrition\\Nutrition\\Nutrition.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Documents\\Projetos\\nutrition\\Nutrition\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Documents\\Projetos\\Nutrition\\Nutrition\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
